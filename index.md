@@ -24,3 +24,8 @@ public class CameraController : MonoBehaviour
         transform.position = player.transform.position + offset;
     }
 }
+
+
+- [ ] wake up
+- [ ] do job
+- [ ] make money
